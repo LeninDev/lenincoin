@@ -1,0 +1,9 @@
+Building Lenin
+
+See doc/readme-qt.rst for instructions on building Lenin-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of Lenin.
+
+See doc/build-*.txt for instructions on building Lenind,
+the intended-for-services, no-graphical-interface, reference
+implementation of Lenin.
